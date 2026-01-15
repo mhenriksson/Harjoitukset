@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82a18ea-852a-44b9-b147-d19f94916631" name="Changes" comment="2.2 tehty">
-      <change afterPath="$PROJECT_DIR$/tehtävä 2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tehtävä 2.4.py" afterDir="false" />
+    <list default="true" id="a82a18ea-852a-44b9-b147-d19f94916631" name="Changes" comment="2.4 tehty">
+      <change afterPath="$PROJECT_DIR$/tehtävä 2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tehtävä 2.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,8 @@
     "Python.tehtävä 2.1.executor": "Run",
     "Python.tehtävä 2.2.executor": "Run",
     "Python.tehtävä 2.3.executor": "Run",
+    "Python.tehtävä 2.4.executor": "Run",
+    "Python.tehtävä 2.6.executor": "Run",
     "Python.tehtävä 2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -87,7 +89,7 @@
       <updated>1768213605374</updated>
       <workItem from="1768213606381" duration="6086000" />
       <workItem from="1768461782261" duration="709000" />
-      <workItem from="1768462610264" duration="7717000" />
+      <workItem from="1768462610264" duration="11577000" />
     </task>
     <task id="LOCAL-00001" summary="testi">
       <option name="closed" value="true" />
@@ -121,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768471375521</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2.3 tehty">
+      <option name="closed" value="true" />
+      <created>1768472642994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768472642994</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2.4 tehty">
+      <option name="closed" value="true" />
+      <created>1768473505709</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768473505709</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,13 +149,17 @@
     <MESSAGE value="testi" />
     <MESSAGE value="-" />
     <MESSAGE value="2.2 tehty" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.2 tehty" />
+    <MESSAGE value="2.3 tehty" />
+    <MESSAGE value="2.4 tehty" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.4 tehty" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2_4.coverage" NAME="tehtävä 2.4 Coverage Results" MODIFIED="1768473460597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_1.coverage" NAME="tehtävä 1 Coverage Results" MODIFIED="1768213744058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2_1.coverage" NAME="tehtävä 2.1 Coverage Results" MODIFIED="1768468627330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2_3.coverage" NAME="tehtävä 2.3 Coverage Results" MODIFIED="1768472620428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2.coverage" NAME="tehtävä 2 Coverage Results" MODIFIED="1768215124748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2_2.coverage" NAME="tehtävä 2.2 Coverage Results" MODIFIED="1768471274203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Koulu_tehtävät$tehtävä_2_6.coverage" NAME="tehtävä 2.6 Coverage Results" MODIFIED="1768473984288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
