@@ -1,4 +1,3 @@
-
 tuumat = int(input("Anna tuumat: "))
 
 while tuumat>0:

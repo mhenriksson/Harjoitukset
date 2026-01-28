@@ -8,4 +8,3 @@ for i in range(määrä):
     summa += noppa
 
 print(summa)
-
